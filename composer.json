@@ -1,5 +1,5 @@
 {
-    "name": "noumo/easyii",
+    "name": "wilsonfalai/easyii",
     "version": "dev-master",
     "description": "Easy CMS based on Yii2 Framework - Development package",
     "keywords": ["easyii"],
@@ -13,11 +13,16 @@
         "issues": "https://github.com/noumo/easyii/issues"
     },
     "authors": [
-        {
-            "name": "Ivan Vasilkov",
-            "email": "noumohope@gmail.com",
-            "role" : "Developer"
-        }
+      {
+          "name": "Wilson Guimarães",
+          "email": "wilsonfalai@gmail.com",
+          "role" : "Developer"
+      },
+      {
+          "name": "Ivan Vasilkov",
+          "email": "noumohope@gmail.com",
+          "role" : "Developer"
+      }
     ],
     "require": {
         "php": ">=5.4.0",
