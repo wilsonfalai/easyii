@@ -6,7 +6,7 @@
     "homepage": "http://easyiicms.com",
     "type": "yii2-extension",
     "license": "GNU GPL V3",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "support": {
         "wiki": "http://easyiicms.com/docs",
         "source": "https://github.com/noumo/easyii.git",
